@@ -1,4 +1,4 @@
-Assignment: Getting and Cleaning Data Course Project (Week 4)
+# Assignment: Getting and Cleaning Data Course Project (Week 4)
 
 This repository contains the necessary steps to obtain and analyze data from the recognition of Human Activity using smart phones.
 *Este repositorio contiene los pasos necesarios para la obtención y analisis de datos provenientes del reconocimiento de Actividad humana usando telefonos inteligentes.*
